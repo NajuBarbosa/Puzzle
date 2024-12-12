@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6c387dc9367024d49bcb596718b48278
+  - enabled: 1
+    path: Assets/Scenes/Ravena.unity
+    guid: 458d1ad530fe8dd41b1945bf0a4d5e44
+  - enabled: 1
+    path: Assets/Scenes/Zenitsu.unity
+    guid: 2025d48ac407fdc439840a806b4dac20
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 874d55ae287025b4bb6ecd4c42431d6c
+  - enabled: 1
+    path: Assets/Scenes/Vitoria.unity
+    guid: 630aad9c5ff452345a719a483b5d2702
+  - enabled: 1
+    path: Assets/Scenes/Escolha.unity
+    guid: 9b995de8b8a8000479196891914e577e
+  m_configObjects: {}

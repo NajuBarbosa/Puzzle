@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3345a3b2e14f5f4298788308e5543fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Space Comics
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b1e6536abb947e48aa4de0eb64c17ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
